@@ -1,0 +1,2 @@
+Promessas em typescript Promises
+
